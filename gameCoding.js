@@ -3,7 +3,7 @@ var leveltoanswers = {
 	2 : "TRAVEL"
 	
 
-var nooflevels = 4; 
+var nooflevels = 2; 
 var currentlevel = 1; 
 var tempanswer = leveltoanswers[currentlevel];
 var noofhints = 2; 
