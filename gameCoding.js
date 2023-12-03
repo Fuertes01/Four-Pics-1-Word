@@ -1,9 +1,7 @@
 var leveltoanswers = {
 	1 : "DATE",
-	2 : "TRAVEL",
-	3 : "NOTE",
-	4 : "BAND"
-}
+	2 : "TRAVEL"
+	
 
 var nooflevels = 4; 
 var currentlevel = 1; 
